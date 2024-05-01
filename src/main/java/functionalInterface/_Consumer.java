@@ -1,5 +1,6 @@
 package functionalInterface;
 
+import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
 public class _Consumer {
@@ -13,9 +14,18 @@ public class _Consumer {
         //A consumer takes one argument and return nothing
         //It's like a void function
         greetCustumerConsumer.accept(maria);
+
+        greetCustumerBiConsumer.accept(maria,true);
+        greetCustumerBiConsumer.accept(maria, false);
     }
-    //Consumer<<DataTypeOfInput>> <nameOfConsumerFunction> =
-    // lambda -> {procedures};
+
+    static BiConsumer<Custumer, Boolean> greetCustumerBiConsumer =
+            (custumer, showPhoneNumber) -> System.out.println(
+                    "Hello " + custumer.custumerName
+                    + " , thanks for registering phone number "
+                    + (showPhoneNumber? custumer.custumerPhoneNumber : "******")
+            );
+
     static Consumer<Custumer> greetCustumerConsumer =
             custumer -> System.out.println(
                     "Hello " + custumer.custumerName +
