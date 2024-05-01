@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Functions">
+    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Chaining Functions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/functionalInterface/_Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/functionalInterface/_Function.java" afterDir="false" />
     </list>
@@ -85,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714593086984</updated>
-      <workItem from="1714593088381" duration="6312000" />
+      <workItem from="1714593088381" duration="8308000" />
     </task>
     <task id="LOCAL-00001" summary="Java util function package&#10;Predicate example">
       <option name="closed" value="true" />
@@ -103,15 +103,35 @@
       <option name="project" value="LOCAL" />
       <updated>1714598942203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Chaining Functions">
+      <option name="closed" value="true" />
+      <created>1714599496168</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714599496168</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java util function package&#10;Predicate example" />
     <MESSAGE value="Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions" />
+    <MESSAGE value="Chaining Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaining Functions" />
   </component>
 </project>
