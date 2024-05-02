@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Combinator Pattern&#10;Design pattern that allows to chain functions together">
-      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/CustomerRegistrationValidator.java" afterDir="false" />
+    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Implementing combinator pattern">
+      <change afterPath="$PROJECT_DIR$/src/main/java/callbacks/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/combinatorPattern/CustomerValidatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/CustomerValidatorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/combinatorPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -99,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714593086984</updated>
-      <workItem from="1714593088381" duration="21325000" />
+      <workItem from="1714593088381" duration="23069000" />
     </task>
     <task id="LOCAL-00001" summary="Java util function package&#10;Predicate example">
       <option name="closed" value="true" />
@@ -197,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714615007350</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Implementing combinator pattern">
+      <option name="closed" value="true" />
+      <created>1714616421971</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1714616421971</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +232,7 @@
     <MESSAGE value="Streams" />
     <MESSAGE value="Optional&#10;(safe?) if null values" />
     <MESSAGE value="Combinator Pattern&#10;Design pattern that allows to chain functions together" />
-    <option name="LAST_COMMIT_MESSAGE" value="Combinator Pattern&#10;Design pattern that allows to chain functions together" />
+    <MESSAGE value="Implementing combinator pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing combinator pattern" />
   </component>
 </project>
