@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Streams">
-      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/Main.java" afterDir="false" />
+    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Optional&#10;(safe?) if null values">
+      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/CustomerValidatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/combinatorPattern/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714593086984</updated>
-      <workItem from="1714593088381" duration="18858000" />
+      <workItem from="1714593088381" duration="19841000" />
     </task>
     <task id="LOCAL-00001" summary="Java util function package&#10;Predicate example">
       <option name="closed" value="true" />
@@ -164,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714612804979</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Optional&#10;(safe?) if null values">
+      <option name="closed" value="true" />
+      <created>1714614064446</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714614064446</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +201,7 @@
     <MESSAGE value="Predicate and BiPredicate" />
     <MESSAGE value="Supplier" />
     <MESSAGE value="Streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Streams" />
+    <MESSAGE value="Optional&#10;(safe?) if null values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optional&#10;(safe?) if null values" />
   </component>
 </project>
