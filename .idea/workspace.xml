@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Implementing combinator pattern">
-      <change afterPath="$PROJECT_DIR$/src/main/java/callbacks/Main.java" afterDir="false" />
+    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Callbacks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714593086984</updated>
-      <workItem from="1714593088381" duration="23069000" />
+      <workItem from="1714593088381" duration="23755000" />
     </task>
     <task id="LOCAL-00001" summary="Java util function package&#10;Predicate example">
       <option name="closed" value="true" />
@@ -203,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714616421971</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Callbacks">
+      <option name="closed" value="true" />
+      <created>1714618943420</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1714618943420</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +241,7 @@
     <MESSAGE value="Optional&#10;(safe?) if null values" />
     <MESSAGE value="Combinator Pattern&#10;Design pattern that allows to chain functions together" />
     <MESSAGE value="Implementing combinator pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing combinator pattern" />
+    <MESSAGE value="Callbacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Callbacks" />
   </component>
 </project>
