@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Callbacks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lambdas/Main.java" afterDir="false" />
+    <list default="true" id="9dbc2fa1-cbb0-4686-a7ed-a10f75528d92" name="Changes" comment="Lambda usage">
+      <change afterPath="$PROJECT_DIR$/src/main/java/optionals/_Optionals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2fscAPpyrpf5ngosPgw4kLMkivJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -39,6 +39,7 @@
     "Application.Main.executor": "Run",
     "Application._Consumer.executor": "Run",
     "Application._Function.executor": "Run",
+    "Application._Optionals.executor": "Run",
     "Application._Predicate.executor": "Run",
     "Application._Stream.executor": "Run",
     "Application._Supplier.executor": "Run",
@@ -46,7 +47,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Github/Java-Functional-Programming",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -97,7 +100,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714593086984</updated>
-      <workItem from="1714593088381" duration="23755000" />
+      <workItem from="1714593088381" duration="24403000" />
+      <workItem from="1714738195988" duration="443000" />
+      <workItem from="1714761455243" duration="4323000" />
     </task>
     <task id="LOCAL-00001" summary="Java util function package&#10;Predicate example">
       <option name="closed" value="true" />
@@ -211,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714618943420</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Lambda usage">
+      <option name="closed" value="true" />
+      <created>1714619485279</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714619485280</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +255,7 @@
     <MESSAGE value="Combinator Pattern&#10;Design pattern that allows to chain functions together" />
     <MESSAGE value="Implementing combinator pattern" />
     <MESSAGE value="Callbacks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Callbacks" />
+    <MESSAGE value="Lambda usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda usage" />
   </component>
 </project>
